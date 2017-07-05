@@ -1,0 +1,5 @@
+/Users/scotthutchinson/Desktop/test/test/bin/Debug/test.dll
+/Users/scotthutchinson/Desktop/test/test/bin/Debug/test.pdb
+/Users/scotthutchinson/Desktop/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Users/scotthutchinson/Desktop/test/test/obj/Debug/test.dll
+/Users/scotthutchinson/Desktop/test/test/obj/Debug/test.pdb
